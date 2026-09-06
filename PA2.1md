@@ -1,2 +1,6 @@
-# PA1.2
-Week 2 MUDE programming assignment
+# This is a comment
+name = "Vyas Jagan"
+age = 20
+print(f'Hello, my name is {name} and my age is {age}')
+
+
